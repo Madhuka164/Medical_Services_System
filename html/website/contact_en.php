@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Contact | Aarogya</title>
+        <title>Contact-Carehome</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="../../img/logo_only.png" />
+        <link rel="icon" type="image/ico" href="../../images/logoc.png" />
         
         <!-- bootstrap jquary -->
         <script src="../../js/bootstrap.min.js"></script>
@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../img/logo_only.png">  Aarogya Private Hospital</a>
+                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../images/logoc.png"> Carehome online consulting service</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item"><a class="nav-link" href="../../index_en.php">HOME</a></li>
@@ -109,11 +109,11 @@
                         </div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                             <div class="contactDetails px-5 py-5">
-                                <h5 class="mb-4">Aarogya Hospitals (Private) Limited</h5>
+                                <h5 class="mb-4">CareHome Hospital</h5>
                                 
                                 <hr><hr>
                                 
-                                <pre>   Bech Road,<br>   Tangalle,<br>   Sri Lanka.</pre>
+                                <pre>   Galle road<br>   Colombo,<br>   Sri Lanka.</pre>
                                 <hr><hr>
                                 
                                 <h5 class="mb-4">Hospital Contacts</h5>
@@ -128,7 +128,7 @@
                                 <pre>   +94 (0)11 1236547</pre>
                                 
                                 <h6>E mail</h6>
-                                <pre>   contactus@aarogya.com</pre>
+                                <pre>   contactus@Carehome.com</pre>
                                 <hr><hr>
                             </div>
                         </div>
@@ -141,8 +141,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
-                                <img src="../../img/logo_only.png">
-                                <p class="mt-3">Aarogya Private Hospital</p>
+                                <img src="../../images/logoc.png">
+                                <p class="mt-3">CareHome</p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6>MAIN MENU</h6>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="row border-top">
                             <div class="footerBottom col-lg-6 col-md-6 col-sm-6 col-6 py-3">
-                                <p>copyright@aarogya | 2019</p>
+                                <p>careHome</p>
                             </div>
                             <div class="sociaMedia col-lg-6 col-md-62 col-sm-6 col-12 py-3 text-right">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-2x ml-3"></i></a>

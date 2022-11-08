@@ -7,7 +7,7 @@ body{
 }
 
 .navbar {
-    background: #00a521;
+    background: #017357;
 }
 
 .nav-item:hover {
@@ -41,7 +41,7 @@ body{
 
 .welcomeImg{
     z-index: 5;
-    
+
 }
 .top .d1 {
     width: 100%;
