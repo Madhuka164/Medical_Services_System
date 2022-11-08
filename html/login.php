@@ -18,8 +18,7 @@
 		$pwd = mysqli_real_escape_string($con,trim($_POST['password']));
         
         /* password encrypt */
-		// $h_pwd = sha1($pwd);
-        $h_pwd = $pwd;
+		$h_pwd = sha1($pwd);
         
         /* login query */
 		$login_qurey = "SELECT * FROM `user` WHERE `is_deleted` = 0 AND `password` = '$h_pwd ' AND (`username` = '$username' OR `id` = '$username') LIMIT 1";
