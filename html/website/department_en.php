@@ -42,11 +42,11 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../img/logo_only.png">  Aarogya Private Hospital</a>
+                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../images/logoc.png"> CareHome Consulting Service</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item"><a class="nav-link" href="../../index_en.php">HOME</a></li>
-                    <li class="nav-item active"><a class="nav-link" href="department_en.php">DEPARTMENTS</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="department_en.php">CATERGORIES</a></li>
                     <li class="nav-item"><a class="nav-link" href="doctor_en.php">DOCTORS</a></li>
                     <li class="nav-item"><a class="nav-link" href="about_en.php">ABOUT</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact_en.php">CONTACT</a></li>
@@ -123,9 +123,9 @@
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-    <img src="images/pedia.png" class="card-img-top" alt="...">
+    <img src="pedia.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Pediatric</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. </p>
       </div>
     </div>
