@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../img/logo_only.png">  Aarogya Private Hospital</a>
+                    <a class="navbar-brand" href="../../index_en.php"><img id="logo" src="../../images/logoc.png">CareHome online medical service</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item"><a class="nav-link" href="../../index_en.php">HOME</a></li>
@@ -61,14 +61,19 @@
                             <div class="px-5 py-5">
                                 <h2>Vision</h2>
                                 <hr>
-                                <p class="mt-4"><sup><i class="fas fa-quote-left"></i></sup> AT THE FOREFRONT OF MEDICAL EXCELLENCE, DEFINING THE FUTURE OF SRI LANKAN HEALTHCARE. <sup><i class="fas fa-quote-right"></i></sup></p>
+                                <p class="mt-4"><sup><i class="fas fa-quote-left"></i></sup> CareHome Health was founded on a simple, yet revolutionary idea: that 
+everyone should have access to the best healthcare, anywhere in the world on 
+their terms. Today, we're delivering on our mission by providing whole-person 
+virtual care that includes all medical categories. <sup><i class="fas fa-quote-right"></i></sup></p>
                             </div>
                         </div>
                         <div class="mission col-lg-6 col-md-6 col-sm-12 col-12 py-5">
                             <div class="px-5 py-5">
                                 <h2>Mission</h2>
                                 <hr>
-                                <p class="mt-4"><sup><i class="fas fa-quote-left"></i></sup> To enhance the lives of our community at large, by unfolding a paradigm shift in all service tiers and excelling in preventative and compassionate patient care. <sup><i class="fas fa-quote-right"></i></sup></p>
+                                <p class="mt-4"><sup><i class="fas fa-quote-left"></i></sup>We're creating a truly unified and personalized consumer experience; 
+developing technologies to connect to patients and extend the reach of care 
+providers; delivering the highest standard of clinical quality at every touchpoint. <sup><i class="fas fa-quote-right"></i></sup></p>
                             </div>
                         </div>
                     </div>                
@@ -86,8 +91,31 @@
                             <div class="py-5">
                                 <h2>Our Story</h2>
                                 <hr>
-                                <p class="mb-4 text-justify">Aarogya Hospital has been a trusted name in Sri Lankan healthcare for more than seven Decades. Since our foundation in 1945, we have built a reputation for regional leadership in medical excellence and innovation, based on a simple philosophy: that improving the health of our community should be driven by passion as well as compassion. Aarogya Hospital offers 260 beds – including 60 in our critical care department – across a range of spacious, modern rooms. We offer the best consultants, specialists and employees, all of whom are dedicated to providing exceptional clinical outcomes and utmost customer satisfaction. With cutting-edge technology, we have evolved into a world-class tertiary care institute. Our facilities include an ultramodern theatre complex comprising eight theatres and state-of-the-art intensive care units (ICUs). We also offer a modern radiology unit, fully equipped physiotherapy unit and two catheterisation laboratories.<br><br>
-                                Aarogya Hospital is also proud to offer the industry-leading Heart Command Centre and Heart Station, supported by the country’s finest cardiologists and cardiac surgeons. With 15 beds and world-class facilities, the centre offers a comprehensive range of diagnostic tests, advanced surgical treatments, cardiac rehabilitation and post-operative counselling. Aarogya Hospital proudly employs more than 2,000 dedicated and talented professionals across our departments, all of whom serve customers and their families with empathy and compassion. The team includes 350 specialist consultants, 15 resident consultants and approximately 50 senior medical officers with support provided by highly trained nurses, paramedics and non-medical staff. Aarogya Hospital is the first healthcare institution in Sri Lanka to be endorsed by Joint Commission International (JCI) for meeting the Gold Standard in Global Healthcare. In 2017, we were re-accredited with the Gold Seal of Approval by JCI, the world’s leading accreditation organisation, based in the United States of America.</p>
+                                <p class="mb-4 text-justify">CareHome is a health-related service with the help of telecommunication 
+and electronic information technologies. It refers to the whole collection of 
+deliverables designed to enable patients and their physicians or healthcare 
+providers. It has a wide range of uses, including online patient consultations, 
+remote control, telehealth nursing, and remote physical and psychiatry 
+rehabilitation. It allows better health care choices, increases emergency service 
+quality and performance, reduces time in making a diagnosis, and saves costs for 
+both doctors and patients by optimizing clinical procedures and reducing travel 
+expenses to hospitals.
+Carehome has increased access to high-quality healthcare facilities. 
+Patients will now get more customized clinical services. They can also meet the 
+best medical providers simply by using video application software, consultations 
+can be taken from afar, and clinicians have better-suited tools for networking, data 
+storage, report management, and leveraging each other's specific skills. This 
+improves the quality of medical practice, allowing doctors to spend less time on 
+ 3
+rural assignments and providing more care to patients. Also enables private 
+healthcare specialists to practice and will enhance the patient experience. Patients 
+will no longer have to stand in long queues, and physicians will be able to access 
+patient information more conveniently and efficiently with electronic files and 
+eliminating overall wait times. Furthermore, remote appointments allow doctors to 
+devote less time to each patient, allowing them to treat a more significant number 
+of patients.
+So our business aims to supply these medical services to patients through 
+online. We decide to build E-commerce web platform for that.</p>
                             </div>
                         </div>
                     </div>                
@@ -155,8 +183,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
-                                <img src="../../img/logo_only.png">
-                                <p class="mt-3">Aarogya Private Hospital</p>
+                                <img src="../../images/logoc.png">
+                                <p class="mt-3">CareHome Online Consulting service</p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6>MAIN MENU</h6>
@@ -177,7 +205,7 @@
                         </div>
                         <div class="row border-top">
                             <div class="footerBottom col-lg-6 col-md-6 col-sm-6 col-6 py-3">
-                                <p>copyright@aarogya | 2019</p>
+                                <p>CareHome</p>
                             </div>
                             <div class="sociaMedia col-lg-6 col-md-62 col-sm-6 col-12 py-3 text-right">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-2x ml-3"></i></a>
