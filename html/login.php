@@ -18,7 +18,8 @@
 		$pwd = mysqli_real_escape_string($con,trim($_POST['password']));
         
         /* password encrypt */
-		$h_pwd = sha1($pwd);
+		// $h_pwd = sha1($pwd);
+        $h_pwd = $pwd;
         
         /* login query */
 		$login_qurey = "SELECT * FROM `user` WHERE `is_deleted` = 0 AND `password` = '$h_pwd ' AND (`username` = '$username' OR `id` = '$username') LIMIT 1";
@@ -61,13 +62,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Login | Aarogya</title>
+        <title>Login-CareHome</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="../img/logo_only.png"/>
+        <link rel="icon" type="image/ico" href="../images/logoc.png"/>
         
         <!-- bootstrap jquary -->
         <script src="../js/bootstrap.min.js"></script>
@@ -97,8 +98,8 @@
             <div class="row">
                 <div class=" col-md-6 login-area text-center">
                     <div class="login-header">
-                        <img src="../img/logo.png" alt="logo" class="logo">
-                        <p class="title">Hospital Management System</p>
+                        <img src="../images/logoc.png" alt="logo" class="logo">
+                        <p class="title">login to CareHome</p>
                     </div>
                     <div class="login-content">
                         <form action="login.php" method="post">

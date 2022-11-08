@@ -13,7 +13,7 @@
 
 .image-area {
     background-color: red;
-    background: linear-gradient(to right, rgba(165, 52, 254, 0.1), rgba(0, 0, 0, 0.0)),url(../img/login.jpg);
+    background: linear-gradient(to right, rgba(165, 52, 254, 0.1), rgba(0, 0, 0, 0.0)),url(../images/LoginWall2.jpg);
 	background-repeat: no-repeat;
     background-position: right;
 	background-size: auto 100%;
