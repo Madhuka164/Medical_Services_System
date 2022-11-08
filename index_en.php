@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Home | Aarogya</title>
+        <title>CareHome</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="img/logo_only.png"/>
+        <link rel="icon" type="image/ico" href="images/plus.png"/>
         
         <!-- bootstrap jquary -->
         <script src="js/bootstrap.min.js"></script>
@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index_en.php"><img id="logo" src="img/logo_only.png">  Aarogya Private Hospital</a>
+                    <a class="navbar-brand" href="index_en.php"><img id="logo" src="images/logoc.png">CareHome Consulting Service</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item active"><a class="nav-link" href="index_en.php">HOME</a></li>
