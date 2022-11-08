@@ -109,9 +109,21 @@
                             <div class="form-group">
                                 <input type="password" class="input-field" name="password" placeholder="Password" required autocomplete="off" id = "password">
                             </div>
-                            <button type="submit" class="btn btn-outline-primary" name="login">Login    <i class="fa fa-lock"></i></button>
+                            <button type="submit" class="btn btn-outline-primary" name="login">Login as Admin   <i class="fa fa-lock"></i></button>
+                            
                         </form>
-
+                -------------
+                        <form action="login.php" method="post">
+                            <div class="form-group">
+                                <input type="text" class="input-field" name="username" placeholder="User Name" required id>
+                            </div>
+                            <div class="form-group">
+                                <input type="password" class="input-field" name="password" placeholder="Password" required autocomplete="off" id = "password">
+                            </div>
+                            <button type="submit" class="btn btn-outline-primary" name="login">Login as a Patient <i class="fa fa-lock"></i></button>
+                            
+                        </form>
+--------------------------
                         <div class="login-bottom-links">
                             <a href="#" class="link">Forgot Your Password ?</a>
                             <a href="website/signup.php" class="link">Don't have an account !</a>

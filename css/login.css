@@ -56,14 +56,14 @@ input.input-field:focus {
 button.btn.btn-outline-primary {
     width: 100%;
     padding: 10px 10px;
-    color: #a534fe;
+    color: #05a988;
     margin-bottom: 20px;
     margin-top: 20px;
     border-radius: 0;
 }
 
 button.btn.btn-outline-primary:hover {
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 .login-bottom-links a {
