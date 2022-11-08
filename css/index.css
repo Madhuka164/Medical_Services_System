@@ -1,13 +1,17 @@
 #logo {
-    width: 50px;
+    width: 100px;
+}
+
+body{
+    background-color: #05ad0e;
 }
 
 .navbar {
-    background: #0d1428;
+    background: #00a521;
 }
 
 .nav-item:hover {
-    background:  #a534fe;
+    background:  #ebef03;
     border-radius: 5px;
     color: white;
     transition: all .3s;
@@ -17,7 +21,7 @@
     position: relative;
     width: 100%;
     height: 500px;
-    background: url(../img/carousel.jpg);
+    background: url(../images/headpic2.jpg);
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -35,17 +39,21 @@
     color: #fff;
 }
 
+.welcomeImg{
+    z-index: 5;
+    
+}
 .top .d1 {
     width: 100%;
     height: 300px;
-    background-color: #d973ed;
+    background-color: #e29e00;
     padding: 5%;
 }
 
 .top .d2 {
     width: 100%;
     height: 300px;
-    background-color: #d35cea;
+    background-color: #e29e00;
     padding: 5%;
 }
 
@@ -56,18 +64,18 @@
     background-color: #fff;
     font-family: inherit;
     font-weight: bold;
-    color: #be1cdd;
+    color: #e29e00;
 }
 
 .top .btn:hover {
-    background-color: #be1cdd;
+    background-color: #e29e00;
     color: #fff;
 }
 
 .top .d3 {
     width: 100%;
     height: 300px;
-    background-color: #cd45e7;
+    background-color: #e29e00;
     padding: 5%;
 }
 
@@ -102,7 +110,7 @@
 }
 
 .wordClassTopic {
-    background-color: #cd45e7;
+    background-color: #e29e00;
     
 }
 
@@ -120,7 +128,7 @@
 	height: 0;
 	border-left: 30px solid transparent;
 	border-right: 30px solid transparent;
-	border-top: 30px solid #cd45e7;
+	border-top: 30px solid #e29e00;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -145,7 +153,7 @@
 }
 
 .footer a:hover {
-    color: #cd45e7;
+    color: #e29e00;
     text-decoration: none;
     font-weight: bold;
 }
@@ -179,16 +187,16 @@
 }
 
 .contactForm {
-    border: 1px solid #cd45e7;
+    border: 1px solid #e29e00;
 }
 
 .contactForm .btn:hover{
     background-color: #fff;
-    color: #a534fe;
+    color: #e29e00;
 }
 
 .contactDetails {
-    background-color: #cd45e7;
+    background-color: #e29e00;
     color: #fff;
 }
 
@@ -206,7 +214,7 @@
 .vision hr, .mission hr {
     border: none;
     height: 2px;
-    background-color: #cd45e7;
+    background-color: #e29e00;
 }
 
 .aboutImg {
@@ -219,7 +227,7 @@
 }
 
 .awardTopic {
-    background-color: #cd45e7;
+    background-color: #e29e00;
 }
 
 .awardTopic .topic {
@@ -245,7 +253,7 @@
 }
 
 .depList {
-    background-color: #cd45e7;
+    background-color: #e29e00;
     color: #fff;
     max-height: 500px;
     overflow: auto; 
@@ -279,7 +287,7 @@
 .story hr {
     border: none;
     height: 2px;
-    background-color: #cd45e7;
+    background-color: #e29e00;
 }
 
 .serviceImg {
@@ -292,9 +300,9 @@
 }
 
 .saveBtn:hover{
-    color:  #A534FE;
+    color:  #e29e00;
     background-color: white;
-    border: 1px solid  #A534FE;
+    border: 1px solid  #e29e00;
 }
 
 .resetBtn:hover{

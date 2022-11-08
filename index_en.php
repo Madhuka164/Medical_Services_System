@@ -84,14 +84,20 @@
                 <div class="container">
                     <div class="row">
                         <div class="welcomeImg col-lg-6 col-md-6 col-sm-12 col-12">
-                            <img src="img/welcome.png">
+                            <img src="images/HomeCALL.png" width="100px" height="350px">
                         </div>
                         <div class="welcomePara col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="px-3 py-3">
-                                <h4>Welcome To Aarogya Private Hospital</h4>
-                                <p class="mt-4">Arogya Hospital was established in 1998 as the first ever private hospital in Gampaha district.
+                                <h4><b>Get ready to meet your doctor!</b></h4>
+                                <p class="mt-4">CareHome Hospital was established in 2022.
                                 <br><br>                                    
-                                Arogya Hospital is appreciated and awarded with National Business Excellence awarding year 2015.Further, it possess ISO 9001 - 2015 certificate, Environment protection license, Atomic Energy certification as well..</p>
+                                CareHome 
+provides facilities to book an appointment with a doctor. Furthermore, it is possible to 
+view the patient's test reports and the doctor's conclusions based on those reports from 
+home. And on that day, the opportunity to get medicine online for minor diseases or 
+physical discomforts in life has been facilitated through this website. Also, in case of 
+emergency, referral to a doctor through video conferencing technology is another facility 
+provided by this website.</p>
                             </div>
                         </div>
                     </div>                
@@ -103,7 +109,7 @@
                     <div class="row">
                         <div class="wordClassTopic col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="topic py-5">
-                                <h4 class="mt-4">Services of The Aarogya</h4>
+                                <h4 class="mt-4">Services of The CareHome</h4>
                                 <p class="mt-4">We provides comprehensive healthcare services including Inward care, General Surgeries, Channeling, Laboratory &amp; Pharmacy under a single roof.</p>
                             </div>                            
                         </div>
@@ -141,8 +147,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
-                                <img src="img/logo_only.png">
-                                <p class="mt-3">Aarogya Private Hospital</p>
+                                <img src="images/logoc.png" width="100px" height="">
+                                <p class="mt-3">CareHome Consulting Service</p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6>MAIN MENU</h6>

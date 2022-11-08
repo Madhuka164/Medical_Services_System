@@ -8,13 +8,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Department | Aarogya</title>
+        <title>Categories - CareHome</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="../../img/logo_only.png" />
+        <link rel="icon" type="image/ico" href="../../images/logoc.png" />
         
         <!-- bootstrap jquary -->
         <script src="../../js/bootstrap.min.js"></script>
@@ -115,11 +115,64 @@
                                 }
                             ?>
 
+
+
+<!-- new cards start -->
+
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card">
+    <img src="images/pedia.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. </p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="sexual.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="2966334.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="2966334.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content..</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- new wcard end -->
+
+
+
+
+                            <h1>aaa</h1>
+
                         </div>
                     </div>
                 </div>                
             </div>
         </section>
+        
         
             <section>        
                 <div class="footer position-relative">
