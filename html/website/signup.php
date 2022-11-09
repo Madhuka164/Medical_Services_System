@@ -47,7 +47,7 @@
         $p = trim($_POST['pwd']);
         $pwd = sha1($p);
         
-        $qurey = "INSERT INTO `client` VALUES ('{$cliId}','{$fName}','{$lName}','{$email}','{$mobile}',0)";
+        $qurey = "INSERT INTO `client` VALUES ('{$cliId}','{$fName}','{$lName}','{$email}','{$pwd}','{$mobile}',0)";
 
         $result = mysqli_query($con,$qurey);
 

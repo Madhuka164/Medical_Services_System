@@ -122,7 +122,7 @@
 
 
 
-                            <h1>aaa</h1>
+                            <h1></h1>
 
                         </div>
                     </div>
@@ -136,8 +136,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
-                                <img src="../../img/logo_only.png">
-                                <p class="mt-3">Aarogya Private Hospital</p>
+                                <img src="../../images/logoc.png">
+                                <p class="mt-3">CareHome online consulting service</p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6>MAIN MENU</h6>

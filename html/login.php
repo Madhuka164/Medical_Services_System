@@ -113,7 +113,7 @@
                             
                         </form>
                 -------------
-                        <form action="login.php" method="post">
+                        <form action="singin.php" method="post">
                             <div class="form-group">
                                 <input type="text" class="input-field" name="username" placeholder="User Name" required id>
                             </div>
