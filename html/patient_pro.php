@@ -65,7 +65,7 @@ button:hover, a:hover {
 <h2 style="text-align:center">Welcome to careHome</h2>
 
 <div class="card">
-  <img src="cat.png" alt="John" style="width:100%">
+  <img src="paz.png" alt="John" style="width:100%">
   <h1>Patient Section</h1>
   <p class="title">Meet your doctor easily..</p>
   <p>Get your time slot now</p>
