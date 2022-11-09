@@ -2,18 +2,26 @@
 
 require_once('../connection/connection.php');
 
-    $email = $_POST['username'];
-    $pwd = $_POST['password'];
+session_start();
 
-    $sql = "select * from client where email = $email and password = $pwd";
+    //$email = $_POST['username'];
+    //$pwd = $_POST['password'];
 
-    $result = mysqli_query($con,$sql);
+    $email =  mysqli_real_escape_string($con,trim($_POST['username']));
+	$pwd = mysqli_real_escape_string($con,trim($_POST['password']));
+        
+    $h_pwd = sha1($pwd);
+    
+    $sql = "SELECT * FROM `client` WHERE `is_deleted` = 0 AND `password` = '$h_pwd ' AND (`email` = '$email') LIMIT 1";;
 
-    if ($result > 0) {
+    $result_set = mysqli_query($con,$sql);
+    
+    if (mysqli_num_rows($result_set)==1) {
+        $_SESSION['username']=$email;
         header('location:patient_pro.php');
     }
     else{
-        header('location:profile.php');
+        header('location:login.php');
     }
 
 

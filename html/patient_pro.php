@@ -1,3 +1,18 @@
+<?php
+
+session_start();
+
+    /* database connection page include */
+    require_once('../connection/connection.php');
+
+    /* if session is not set, redirect to login page */
+    if(!isset($_SESSION['username'])) {
+	    header("location:login.php");
+	}
+
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,6 +29,9 @@
 .title {
   color: grey;
   font-size: 18px;
+}
+body{
+  background-image: url("pat.jpg");
 }
 
 button {
@@ -42,10 +60,12 @@ button:hover, a:hover {
 </head>
 <body>
 
+
+
 <h2 style="text-align:center">Welcome to careHome</h2>
 
 <div class="card">
-  <img src="/images/2966334.jpg" alt="John" style="width:100%">
+  <img src="cat.png" alt="John" style="width:100%">
   <h1>Patient Section</h1>
   <p class="title">Meet your doctor easily..</p>
   <p>Get your time slot now</p>
