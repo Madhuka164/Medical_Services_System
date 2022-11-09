@@ -158,7 +158,7 @@
                         </div>
                         <div class="row border-top">
                             <div class="footerBottom col-lg-6 col-md-6 col-sm-6 col-6 py-3">
-                                <p>copyright@aarogya | 2019</p>
+                                <p>carehome</p>
                             </div>
                             <div class="sociaMedia col-lg-6 col-md-62 col-sm-6 col-12 py-3 text-right">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-2x ml-3"></i></a>

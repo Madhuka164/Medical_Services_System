@@ -42,20 +42,20 @@ button:hover, a:hover {
 </head>
 <body>
 
-<h2 style="text-align:center">User Profile Card</h2>
+<h2 style="text-align:center">Welcome to careHome</h2>
 
 <div class="card">
-  <img src="/w3images/team2.jpg" alt="John" style="width:100%">
-  <h1>John Doe</h1>
-  <p class="title">CEO & Founder, Example</p>
-  <p>Harvard University</p>
+  <img src="/images/2966334.jpg" alt="John" style="width:100%">
+  <h1>Patient Section</h1>
+  <p class="title">Meet your doctor easily..</p>
+  <p>Get your time slot now</p>
   <div style="margin: 24px 0;">
     <a href="#"><i class="fa fa-dribbble"></i></a> 
     <a href="#"><i class="fa fa-twitter"></i></a>  
     <a href="#"><i class="fa fa-linkedin"></i></a>  
     <a href="#"><i class="fa fa-facebook"></i></a> 
   </div>
-  <p><button>Contact</button></p>
+  <p><button>Make Appoinment</button></p>
 </div>
 
 </body>

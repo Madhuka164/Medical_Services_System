@@ -1,6 +1,6 @@
 <?php
 
-    include '../connection.php';
+require_once('../connection/connection.php');
 
     $email = $_POST['username'];
     $pwd = $_POST['password'];
@@ -13,7 +13,7 @@
         header('location:patient_pro.php');
     }
     else{
-        header('location:login.php');
+        header('location:profile.php');
     }
 
 

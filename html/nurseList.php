@@ -45,13 +45,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Nurse List | Aarogya</title>
+        <title>Nurse List</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="../img/logo_only.png"/>
+        <link rel="icon" type="image/ico" href="../images/logoc.png"/>
         
         <!-- bootstrap jquary -->
         <script src="../js/bootstrap.min.js"></script>

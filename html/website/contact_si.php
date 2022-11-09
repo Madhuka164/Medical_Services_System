@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>ඇමතුම් | ආරෝග්‍යා</title>
+        <title>ඇමතුම්</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="../../index_si.php"><img id="logo" src="../../img/logo_only.png">  ආරෝග්‍යා පෞද්ගලික රෝහල</a>
+                    <a class="navbar-brand" href="../../index_si.php"><img id="logo" src="../../images/logoc.png"></a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item"><a class="nav-link" href="index_si.php">මුල් පිටුව</a></li>
@@ -109,11 +109,11 @@
                         </div>
                         <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                             <div class="contactDetails px-5 py-5">
-                                <h5 class="mb-4"><b>ආරෝග්‍යා පෞද්ගලික රෝහල</b></h5>
+                                <h5 class="mb-4"><b>Carehome</b></h5>
                                 
                                 <hr><hr>
                                 
-                                <pre>   වෙරළ පාර,<br>   තංගල්ල,<br>   ශ්‍රී ලංකාව.</pre>
+                                <pre>   colombo.</pre>
                                 <hr><hr>
                                 
                                 <h5 class="mb-4"><b>රෝහල් ඇමතුම්</b></h5>
@@ -142,7 +142,7 @@
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <img src="../../img/logo_only.png">
-                                <p class="mt-3">ආරෝග්‍යා පෞද්ගලික රෝහල</p>
+                                <p class="mt-3"></p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6><b>ප්‍රධාන මෙනු</b></h6>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="row border-top">
                             <div class="footerBottom col-lg-6 col-md-6 col-sm-6 col-6 py-3">
-                                <p>copyright@aarogya | 2019</p>
+                                <p>carehome</p>
                             </div>
                             <div class="sociaMedia col-lg-6 col-md-62 col-sm-6 col-12 py-3 text-right">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-2x ml-3"></i></a>

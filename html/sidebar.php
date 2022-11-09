@@ -129,7 +129,7 @@
         <div class="sidebar-content">
             <div class="sidebar-brand">
                 <!-- logo -->
-                <a href="../html/dashboard.php"><img src="../img/logo.png" width="175px"></a>
+                <a href="../html/dashboard.php"><img src="../images/logoc.png" width="175px"></a>
                 <!-- sidebar hidden icon -->
                 <div id="close-sidebar">
                     <i class="fas fa-times"></i>

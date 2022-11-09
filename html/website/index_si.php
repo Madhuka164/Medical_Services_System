@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="si">
     <head>
-        <title>මුල් පිටුව | ආරෝග්‍යා</title>
+        <title>මුල් පිටුව</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!--title icon-->
-        <link rel="icon" type="image/ico" href="../../img/logo_only.png"/>
+        <link rel="icon" type="image/ico" href="../../images/logoc.png"/>
         
         <!-- bootstrap jquary -->
         <script src="../../js/bootstrap.min.js"></script>
@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index_si.php"><img id="logo" src="../../img/logo_only.png">  ආරෝග්‍යා පෞද්ගලික රෝහල</a>
+                    <a class="navbar-brand" href="index_si.php"><img id="logo" src="../../img/logo_only.png"></a>
                 </div>
                 <ul class="nav navbar-nav navbar-right lead">
                     <li class="nav-item active"><a class="nav-link" href="index_si.php">මුල් පිටුව</a></li>
@@ -88,10 +88,10 @@
                         </div>
                         <div class="welcomePara col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="px-3 py-3">
-                                <h4>ආරෝග්‍යා පෞද්ගලික රෝහල වෙත සාදරයෙන් පිළිගනිමු</h4>
-                                <p class="mt-4">අරෝග්‍යා රෝහල තංගල්ල දිස්ත්‍රික්කයේ ප්‍රථම පුද්ගලික රෝහල ලෙස 1998 දී ආරම්භ කරන ලදී.
+                                <h4>සාදරයෙන් පිළිගනිමු</h4>
+                                <p class="mt-4">
                                 <br><br>                                    
-                                ආරෝග්‍යා රෝහල 2015 වසරේ ජාතික ව්‍යාපාර විශිෂ්ටතා සම්මානයෙන් පිදුම් ලැබීය. තවද, එය ISO 9001 - 2015 සහතිකය ද, පරිසර ආරක්ෂණ බලපත්‍රය ද, පරමාණුක බලශක්ති සහතිකය ද ලබාගෙන ඇත..</p>
+                                2021 වසරේ ජාතික ව්‍යාපාර විශිෂ්ටතා සම්මානයෙන් පිදුම් ලැබීය. තවද, එය ISO 9001 - 2021 සහතිකය ද, පරිසර ආරක්ෂණ බලපත්‍රය ද, පරමාණුක බලශක්ති සහතිකය ද ලබාගෙන ඇත..</p>
                             </div>
                         </div>
                     </div>                
@@ -103,7 +103,7 @@
                     <div class="row">
                         <div class="wordClassTopic col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="topic py-5">
-                                <h4 class="mt-4">ආරෝග්‍යා පෞද්ගලික රෝහලේ සේවාවන්</h4>
+                                <h4 class="mt-4">සේවාවන්</h4>
                                 <p class="mt-4">අභ්‍යන්තර සත්කාර, සාමාන්‍ය සැත්කම්, නාලිකා, රසායනාගාරය සහ ෆාමසි ඇතුළු පුළුල් සෞඛ්‍ය සේවා අපි එකම වහලක් යටින් සපයන්නෙමු.</p>
                             </div>                            
                         </div>
@@ -142,7 +142,7 @@
                         <div class="row">
                             <div class="footerLogo col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <img src="../../img/logo_only.png">
-                                <p class="mt-3">ආරෝග්‍යා පෞද්ගලික රෝහල</p>
+                                <p class="mt-3"></p>
                             </div> 
                             <div class="footerLink  col-lg-4 col-md-4 col-sm-12 col-12 py-5">
                                 <h6><b>ප්‍රධාන මෙනු</b></h6>
@@ -163,7 +163,7 @@
                         </div>
                         <div class="row border-top">
                             <div class="footerBottom col-lg-6 col-md-6 col-sm-6 col-6 py-3">
-                                <p>copyright@aarogya | 2019</p>
+                                <p>CareHome</p>
                             </div>
                             <div class="sociaMedia col-lg-6 col-md-62 col-sm-6 col-12 py-3 text-right">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-2x ml-3"></i></a>
